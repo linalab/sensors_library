@@ -7,3 +7,7 @@ List of sensors to be used with Arduino, including code and connections.
 - [capacitive sensor](capacitive)
 - [Soil moisture](moisture_soil)
 
+Some outputs too:
+- [DC Motors](dc-motor)
+
+
