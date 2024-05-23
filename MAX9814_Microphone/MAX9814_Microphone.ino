@@ -1,6 +1,7 @@
 /****************************************
 Example Sound Level Sketch for the 
 Adafruit Microphone Amplifier
+
 Circuit:
 GND -> GND
 VCC -> 3.3V
