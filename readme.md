@@ -9,7 +9,7 @@ List of sensors to be used with Arduino, including code and connections.
 - [Soil moisture](moisture_soil)
 - [Galvanic Skin Sensor](gsr)
 - [Pulse Sensor](pulse)
-- 
+- [Ultrasonic Sensor](ultrasonic) 
 
 Some outputs too:
 - [DC Motors](dc-motor)
