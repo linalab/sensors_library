@@ -19,8 +19,8 @@
 
 ## Instructions
 - Build the sensor
-- Measure the scope of the resistivity using the multimeter
-- Use a resistor that is between both values ​​in the range
+- Measure the variable range of resistivity using multimeter
+- Use a resistor that is between both values ​​of the range
 - Build the circuit
 - Read the values of the sensor with Arduino
 - Have fun!
