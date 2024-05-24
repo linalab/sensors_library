@@ -13,7 +13,7 @@ List of sensors to be used with Arduino, including code and connections.
 
 Some outputs too:
 - [DC Motors](dc-motor)
-- [RGB_Strip_WS2812](RGB_Strip_WS2812)
+- [RGB_LedStrip_WS2812](RGB_Strip_WS2812)
 
 
 
