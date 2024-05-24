@@ -1,4 +1,4 @@
-# Soft Preassure Sensor
+# Soft Pressure Sensor
 
 ## Materials needed:
 
