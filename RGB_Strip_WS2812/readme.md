@@ -7,10 +7,11 @@ In this example we use:
 
 Library documentation: https://fastled.io/
 
-#Circuit
+## Circuit
 - GND -> GND
 - DIN -> 5 (PWM pin)
 - 4-7 VDC -> 5V
+  
 ## Other resources and tutorials
 - https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/
 
