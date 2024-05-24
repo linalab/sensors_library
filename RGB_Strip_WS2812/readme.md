@@ -19,7 +19,7 @@ Library documentation: https://fastled.io/
 
 # 2 Led Strips 
 
-You can build a Matrix using several led strips
+You can connect several led strips
 
 ### Led Strip 1
 - GND -> GND
