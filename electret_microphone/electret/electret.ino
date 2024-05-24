@@ -7,8 +7,8 @@ int valD;        // variable que cambiará entre 0 y 1023 de acuerdo al ruido
 void setup() {
   Serial.begin(9600);       // inicializamos la conexión serial entre ordenador y Arduino
   pinMode(miLed, OUTPUT);   // presentamos al pin del led como OUTPUT
-  pinMode(sensorA, INPUT);  // presentamos al pin digital del sensor como INPUT
-  pinMode(sensorD, INPUT);  // presentamos al pin analógico del sensor como INPUT
+  pinMode(pinA, INPUT);  // presentamos al pin digital del sensor como INPUT
+  pinMode(pinD, INPUT);  // presentamos al pin analógico del sensor como INPUT
   digitalWrite(miLed, LOW);  // comenzamos el código con el led apagado
 }
 
