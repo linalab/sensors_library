@@ -27,7 +27,7 @@ You can connect several led strips
 - 4-7 VDC -> 5V
 - DOUT - DIN (Led strip 2)
   
-## Led Strip 2
+### Led Strip 2
 - GND -> GND
 - DIN -> DOUT (Led Strip 1)
 - 4-7 VDC -> 5V
