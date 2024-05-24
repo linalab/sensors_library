@@ -9,10 +9,29 @@ Library documentation: https://fastled.io/
 
 ## Circuit
 - GND -> GND
-- DIN -> 5 (PWM pin)
+- DIN ->  Pin 5 (PWM pin)
 - 4-7 VDC -> 5V
   
 ## Other resources and tutorials
 - https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/
 
 ![WhatsApp Image 2024-05-24 at 16 23 52](https://github.com/linalab/sensors_library/assets/19651027/52e24e7f-1cfa-4d43-b15a-c376e867a5b6)
+
+# 2 Led Strips 
+
+You can build a Matrix using several led strips
+
+### Led Strip 1
+- GND -> GND
+- DIN -> 5 (PWM pin)
+- 4-7 VDC -> 5V
+- DOUT - DIN (Led strip 2)
+  
+## Led Strip 2
+- GND -> GND
+- DIN -> DOUT (Led Strip 1)
+- 4-7 VDC -> 5V
+
+
+
+
