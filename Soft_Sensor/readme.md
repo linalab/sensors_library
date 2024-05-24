@@ -13,3 +13,5 @@
 - Sensor Pad 2 -> Analogic Pin -> Resistor -> GND
 
 <img width="475" alt="Captura de pantalla 2024-05-24 a las 17 00 21" src="https://github.com/linalab/sensors_library/assets/19651027/72ae1040-80ca-45b6-890f-004bab5e0c33">
+
+![PressureSensor](https://github.com/linalab/sensors_library/assets/19651027/a679a7cb-1fe0-40c3-87ce-6721c0554454)
